@@ -18,7 +18,6 @@ I'm a **Machine Learning Engineer** and **AI Researcher** passionate about solvi
 - 📚 Constantly learning **new ML algorithms**  
 - 🎮 Playing strategy games to sharpen my logic  
 - 🎤 Attending tech meetups, webinars, and research talks  
-- ✍🏽 Writing code like poetry and documenting it with love  
 
 ---
 
